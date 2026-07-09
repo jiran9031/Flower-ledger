@@ -1,7 +1,7 @@
 const { useState, useEffect, useMemo, useRef } = React;
 
 // ====== SETUP: paste your own Google OAuth Client ID here (see README.md) ======
-const GOOGLE_CLIENT_ID = "YOUR_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "930647615202-071mpu5o1j35d3vndrlnopm3qbbv860r.apps.googleusercontent.com";
 const DRIVE_SCOPE = "https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/userinfo.email";
 const DATA_FILENAME = "flower-ledger-data.json";
 // =================================================================================
